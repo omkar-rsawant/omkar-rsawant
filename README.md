@@ -44,12 +44,15 @@ I'm a **Senior Infrastructure Architect** with **15+ years** of hands-on experie
 ### ☁️ Cloud & Virtualization
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![KVM](https://img.shields.io/badge/KVM-000000?style=flat-square&logo=linux&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 
 ### 📊 Monitoring & Logging
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-EE0000?style=flat-square&logoColor=white)
 
 ### 🔐 Certifications
 ![Azure Network Engineer](https://img.shields.io/badge/Azure%20Network%20Engineer%20Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
