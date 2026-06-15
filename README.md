@@ -1,109 +1,167 @@
-<h1 align="center">Hi, I'm Omkar Sawant 👋</h1>
-<h3 align="center">AI Infrastructure Engineer · GPU / AI Infrastructure · Linux · Virtualization · Cloud</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/omkar-sawant"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:o.r.sawant@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Location-Mumbai,%20India-success?style=flat&logo=googlemaps&logoColor=white" alt="Location">
-</p>
+# 👋 Hey, I'm Omkar Sawant
 
----
+### Infrastructure Architect · Linux Engineer · Ansible Automation Specialist
 
-### 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-omkar--sawant-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-sawant)
+[![Email](https://img.shields.io/badge/Email-o.r.sawant@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:o.r.sawant@hotmail.com)
+[![Location](https://img.shields.io/badge/Location-Mumbai%2C%20India-brightgreen?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
-AI Infrastructure Engineer with **18+ years** building and operating large-scale, mission-critical compute infrastructure across on-premises and cloud. Specialized in **GPU/AI infrastructure** — KVM/QEMU GPU virtualization, NUMA-aware and low-latency tuning, SR-IOV, NCCL-validated multi-node GPU fabrics, and Kubernetes/OpenShift orchestration. Strong in Infrastructure-as-Code (Ansible, Terraform), reproducible CI/CD-driven OS image pipelines, and Prometheus/Grafana observability. Proven record delivering high-availability platforms with **100% SLA compliance** and driving infrastructure efficiency, density, and utilization for high-performance AI/Deep Learning workloads.
-
-- 🔭 Focused on **GPU & AI infrastructure at scale**
-- 🛠️ Deep in **KVM/QEMU, Kubernetes/OpenShift, Ansible, Terraform**
-- 📜 OCI Architect Associate · Azure Network Engineer · Azure Administrator · VMware vSphere 7.x
-- 🌐 Languages: English · Hindi · Marathi
+</div>
 
 ---
 
-### 🧰 Tech Stack
+## 🧠 About Me
 
-**GPU & AI Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/GPU%20Passthrough%20%2F%20vGPU-76B900?style=flat&logo=nvidia&logoColor=white">
-  <img src="https://img.shields.io/badge/SR--IOV-555555?style=flat">
-  <img src="https://img.shields.io/badge/NUMA%20%2F%20Hugepage%20Tuning-555555?style=flat">
-  <img src="https://img.shields.io/badge/NCCL%20Benchmarking-76B900?style=flat&logo=nvidia&logoColor=white">
-</p>
+> *"Automate everything. Manual is the enemy of scale."*
 
-**Virtualization & Orchestration**
-<p>
-  <img src="https://img.shields.io/badge/KVM%20%2F%20QEMU-CC0000?style=flat&logo=qemu&logoColor=white">
-  <img src="https://img.shields.io/badge/libvirt-1A1A1A?style=flat">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white">
-  <img src="https://img.shields.io/badge/VMware%20vSphere-607078?style=flat&logo=vmware&logoColor=white">
-  <img src="https://img.shields.io/badge/LXC%2FLXD-333333?style=flat&logo=linuxcontainers&logoColor=white">
-</p>
+I'm a **Senior Infrastructure Architect** with **15+ years** of hands-on experience designing and managing enterprise-grade IT infrastructures. My passion lies in **Linux systems**, **Ansible automation**, and **hybrid cloud architecture**.
 
-**Automation & IaC**
-<p>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/cloud--init-F47421?style=flat">
-</p>
-
-**Operating Systems & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/RHEL-EE0000?style=flat&logo=redhat&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu%2FDebian-E95420?style=flat&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle%20Linux-F80000?style=flat&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=white">
-</p>
-
-**Observability & Networking**
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white">
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white">
-  <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat&logo=zabbix&logoColor=white">
-  <img src="https://img.shields.io/badge/VLAN%20%2F%20SDN%20%2F%20Bonding-555555?style=flat">
-</p>
+- 🔧 Currently architecting infrastructure solutions at **Ali Bin Ali Technology Solutions (ABATS)**
+- ⚙️ Reduced task completion time by **40%** through Ansible-driven automation
+- 💸 Cut infrastructure costs by **30%** via strategic VM migration (Hyper-V/VMware → KVM)
+- 📉 Slashed deployment time from **120 min → 20 min** using Red Hat Satellite
+- ✅ Maintained **100% SLA compliance** across all delivered projects
 
 ---
 
-### 💼 Experience Highlights
+## 🛠️ Tech Stack & Expertise
 
-| Role | Organization | Period |
-|------|-------------|--------|
-| Senior Systems Specialist | Ali Bin Ali Technology Solutions (ABATS), Doha | Nov 2022 – Present |
-| Sr. System & Backup Administrator | EBLA Computer Consultancy | Apr 2020 – Nov 2022 |
-| Senior System Administrator | KBC Technologies WLL (Qatar) | Oct 2019 – Apr 2020 |
-| Lead Engineer | Vyom Labs Pvt. Ltd., Mumbai | Jan 2018 – Sep 2018 |
-| System Administrator | AtoS India Pvt. Ltd. | Aug 2010 – Jan 2018 |
+### 🐧 Linux Administration
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![Oracle Linux](https://img.shields.io/badge/Oracle%20Linux-F80000?style=flat-square&logo=oracle&logoColor=white)
+![HP-UX](https://img.shields.io/badge/HP--UX-0096D6?style=flat-square&logo=hp&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white)
 
-- ⚙️ Designed and engineered **KVM/QEMU/libvirt** hypervisor infrastructure for production and GPU/AI workloads — NUMA alignment, hugepages, virtio/SR-IOV.
-- 🔬 Provisioned GPU infrastructure for high-performance AI workloads; validated throughput with **NCCL benchmarks** and NUMA-aware tuning.
-- 📦 Built **CI/CD-driven, reproducible OS image pipelines** (cloud-init, dracut/systemd-boot, GitHub Actions) for immutable, versioned node rollouts.
-- 🔁 Migrated workloads from Hyper-V/VMware to KVM, improving virtualization efficiency, density, and utilization.
+### ⚙️ Automation & Configuration Management
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Red Hat Satellite](https://img.shields.io/badge/Red%20Hat%20Satellite-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### ☁️ Cloud & Virtualization
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-000000?style=flat-square&logo=linux&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+
+### 📊 Monitoring & Logging
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-EE0000?style=flat-square&logoColor=white)
+
+### 🔐 Certifications
+![Azure Network Engineer](https://img.shields.io/badge/Azure%20Network%20Engineer%20Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Admin](https://img.shields.io/badge/Azure%20Administrator%20Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![ITIL](https://img.shields.io/badge/ITIL%20Foundation-6C3A9B?style=flat-square&logoColor=white)
+![VMware vSphere](https://img.shields.io/badge/VMware%20vSphere%207.x-607078?style=flat-square&logo=vmware&logoColor=white)
 
 ---
 
-### 🛠️ Featured Projects
+## 📂 Featured Repositories
 
-- **Multi-Node GPU Infrastructure with NCCL Benchmarking** — multi-node GPU fabric on KVM/QEMU for AI/Deep Learning, validated with NCCL and NUMA-aware tuning.
-- **Hardened Linux Image Build for Kubernetes Nodes (Garden Linux / Debian)** — minimal, CIS-hardened, reproducible images integrated into CI/CD for immutable rollout.
-- **Hyper-V / VMware → Oracle KVM / RHEV Migration** — virtio integration, NUMA alignment, bridge/VLAN networking, NFS shared storage.
-- **OS Lifecycle Management Platform (Red Hat Satellite / Oracle Linux Manager)** — provisioning, patching, and compliance across physical, virtual, and cloud.
+> 🔨 What I build and share — Ansible roles, Linux admin scripts, and infrastructure-as-code
+
+### 🔁 Ansible Roles & Playbooks
+
+| Repository | Description | Tech |
+|---|---|---|
+| 🗂️ `ansible-linux-baseline` | Hardening & baseline configuration for RHEL/Oracle Linux | Ansible, RHEL |
+| 🔄 `ansible-patch-management` | Automated OS patching with pre/post health checks | Ansible, Satellite |
+| 📦 `ansible-satellite-lifecycle` | Lifecycle workflows using Red Hat Satellite 6.x | Ansible, Satellite |
+| 🛡️ `ansible-splunk-deploy` | Deploy & configure Splunk forwarders, indexers, search heads | Ansible, Splunk |
+| ☁️ `ansible-azure-infra` | Provision and configure Azure resources with Ansible | Ansible, Azure |
+| 🖥️ `ansible-kvm-migration` | Automate P2V and V2V migrations to KVM/RHEV | Ansible, KVM |
+
+### 🐧 Linux Admin Scripts
+
+| Repository | Description | Tech |
+|---|---|---|
+| 🔍 `linux-health-check` | Comprehensive server health audit scripts | Bash, Python |
+| 📋 `openshift-node-inspector` | OpenShift node log & health diagnostics | Bash, OCP |
+| 💾 `hpux-ignite-automation` | HP-UX Ignite backup & restore automation | Bash, HP-UX |
+| 🔐 `linux-security-audit` | CIS benchmark compliance checker for Linux | Bash, Python |
 
 ---
 
-### 📜 Certifications
+## 📈 Automation Impact — By the Numbers
 
-`OCI Architect Associate (2025)` · `OCI Foundation Associate (2025)` · `Azure Network Engineer Associate (2023)` · `Azure Administrator Associate (2023)` · `VMware vSphere 7.x Professional (2022)` · `ITIL Foundation (2012)` · `HP Unix Systems Administrator (2009)`
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                     AUTOMATION WINS                             │
+├────────────────────────────────────┬────────────────────────────┤
+│  Deployment Time (RH Satellite)    │  120 min  ──►  20 min  🚀  │
+│  Task Completion Time (Ansible)    │  Reduced by 40%        ⚡  │
+│  Infra Cost (KVM Migration)        │  Saved 30%             💰  │
+│  SLA Compliance                    │  100%                  ✅  │
+│  Operational Performance Gain      │  +30%                  📈  │
+└────────────────────────────────────┴────────────────────────────┘
+```
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkar-rsawant&show_icons=true&theme=default&hide_border=true" height="160" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-rsawant&layout=compact&theme=default&hide_border=true" height="160" alt="Top Languages">
-</p>
+## 🔬 Core Ansible Expertise
+
+```yaml
+# What I do with Ansible every day
+---
+omkar_ansible_skills:
+  roles:
+    - OS hardening & baseline configuration
+    - Patch management automation (RHEL, Oracle Linux)
+    - Red Hat Satellite integration
+    - Splunk infrastructure deployment
+    - KVM / OLVM / RHEV provisioning
+    - Azure resource management
+
+  use_cases:
+    - Configuration management at scale
+    - Zero-touch server provisioning
+    - Application deployment pipelines
+    - Compliance & security automation
+    - Cross-platform (Linux + Windows) orchestration
+
+  integrations:
+    - Red Hat Satellite 6.10
+    - Oracle Linux Manager
+    - Azure Ansible Collections
+    - AWS Systems Manager
+    - OpenShift / OCP clusters
+```
+
+---
+
+## 🏢 Career Timeline
+
+```
+2007 ──► Embee Software          │  HP-UX & Windows L2 Support
+2010 ──► AtoS India              │  Linux/Windows L3 Admin (7.5 yrs)
+2018 ──► Vyom Labs               │  Automation & OpenShift Lead
+2019 ──► KBC Technologies (QA)   │  Sr. Sysadmin @ Ooredoo Telecom
+2020 ──► EBLA Consultancy        │  Sr. Sysadmin & Backup Admin
+2022 ──► ABATS (Present)         │  Infrastructure Architect ◄── NOW
+```
+
+---
+
+## 📬 Get In Touch
+
+I'm always open to discussions around **Linux automation**, **Ansible best practices**, **hybrid cloud architecture**, or **infrastructure optimization**.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/omkar-sawant)
+- 📧 o.r.sawant@hotmail.com
+- 🐙 [GitHub](https://github.com/omkar-rsawant)
+
+---
+
+<div align="center">
+
+*"Infrastructure should work like clockwork — silent, reliable, and automated."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=omkar-rsawant&color=red&style=flat-square)
+
+</div>
